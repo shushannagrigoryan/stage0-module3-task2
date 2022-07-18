@@ -12,3 +12,6 @@ public class JavaVariableNames {
         int badExampleOfVarName = 1000000;
     }
 }
+
+
+
